@@ -1,0 +1,21 @@
+.footer{
+    color: white;
+    text-align: center;
+    background: linear-gradient(45deg, black, #5e5354);
+  }
+  
+  .footer span{
+    color: crimson;
+    font-weight: bolder;
+  }
+  
+  .footer a{
+    text-decoration: none;
+      color: rgb(243, 243, 243);
+      margin: 0px 10px;
+  }
+
+  .footer{
+    position: absolute;
+    width: 100%;
+  }
